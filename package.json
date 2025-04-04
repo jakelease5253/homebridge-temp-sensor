@@ -1,22 +1,25 @@
 {
-  "name": "homebridge-plugin-name",
-  "displayName": "Plugin Name",
+  "name": "homebridge-temp-sensor",
+  "displayName": "Mocreo Temperature Sensor",
   "type": "module",
   "version": "1.0.0",
   "private": true,
-  "description": "A short description about what your plugin does.",
-  "author": "Your Name",
+  "description": "Simple Temperature Sensor that reads from a Mocreo API",
+  "author": "Jake Lease",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/USERNAME/GITHUB_PROJECT_NAME#readme",
+  "homepage": "https://github.com/jakelease5253/homebridge-temp-sensor/blob/latest/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "https://github.com/jakelease5253/homebridge-temp-sensor.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/jakelease5253/homebridge-temp-sensor/issues"
   },
   "keywords": [
-    "homebridge-plugin"
+    "homebridge-plugin",
+    "temperature-sensor",
+    "homebridge-temp-sensor",
+    "Mocreo"
   ],
   "main": "dist/index.js",
   "engines": {
