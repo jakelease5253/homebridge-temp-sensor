@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "Mocreo Temperature Sensor",
   "pluginType": "platform",
   "singular": true,
   "strictValidation": false,
